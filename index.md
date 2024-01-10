@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Category 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1]
+<img src="/life_expectancy.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
@@ -17,13 +17,14 @@
 
 ---
 
-### Category Name 2
+### Category 2 
+   Files
 
-- [Project 1 Title](https://github.com/dntenai/dntenai.github.io/blob/main/life%20_expectancy.ipynb)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Project 1 ](https://github.com/dntenai/dntenai.github.io/blob/main/life%20_expectancy.ipynb)
+- [Project 2 ](http://example.com/)
+- [Project 3 ](http://example.com/)
+- [Project 4 ](http://example.com/)
+
 
 ---
 
