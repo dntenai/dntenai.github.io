@@ -5,7 +5,7 @@
 ### Category 1 
 
 [Project 1]
-<img src="/life_expectancy.png?raw=true"/>
+<img src="/life_expectancy.png.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
