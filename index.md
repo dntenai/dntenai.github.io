@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](https://github.com/project-1/EDA and ML on Life Expectancy Data.ipynb/)
+- [Project 1 Title](https://github.com/dntenai/project-1)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
