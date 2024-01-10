@@ -19,7 +19,7 @@
 
 ### Category Name 2
 
-- [Project 1 Title](https://github.com/dntenai/project-1/blob/main/life%20_expectancy.ipynb)
+- [Project 1 Title](https://github.com/dntenai/dntenai.github.io/blob/main/life%20_expectancy.ipynb)
 - [Project 2 Title](http://example.com/)
 - [Project 3 Title](http://example.com/)
 - [Project 4 Title](http://example.com/)
