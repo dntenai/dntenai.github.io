@@ -6,7 +6,7 @@
 
 Project 1
 <br>
- The project aimed to identify key contributors to life expectancy variations among 193 countries, providing insights for targeted improvements in population health.
+ The project aimed to identify key contributors to life expectancy.
  <br>
 Regression models, including Linear Regression, RandomForest Regressor, DecisionTree Regressor, Gradient Boosting Regressor, Support Vector Regressor, Lasso, and Ridge were utilized
 <img src="/life_expectancy.png.png?raw=true"/>
@@ -14,11 +14,12 @@ Regression models, including Linear Regression, RandomForest Regressor, Decision
 ---
 
 Project 2<br>
-
+The research predicted instances of heart failure by implementing logistic regression, Random Forest, Decision Tree, and Naive Bayes.
 <img src="/Heart Rate.png?raw=true"/>
 
 ---
 Project 3 <br>
+Uncovered patterns of Myopia through PCA and T-SNE dimensionality reduction techniques and K-means Clustering.
 <img src="/Elbow plot.png?raw=true"/>
 
 ---
