@@ -9,6 +9,7 @@ Project 1
  The project aimed to identify key contributors to life expectancy.
  <br>
 Regression models, including Linear Regression, RandomForest Regressor, DecisionTree Regressor, Gradient Boosting Regressor, Support Vector Regressor, Lasso, and Ridge were utilized
+<br>
 <img src="/life_expectancy.png.png?raw=true"/>
 
 ---
@@ -19,7 +20,7 @@ The research predicted instances of heart failure by implementing logistic regre
 
 ---
 Project 3 <br>
-Uncovered patterns of Myopia through PCA and T-SNE dimensionality reduction techniques and K-means Clustering.
+Uncovered patterns of Myopia through PCA and T-SNE dimensionality reduction techniques and K-means Clustering. <br>
 <img src="/Elbow plot.png?raw=true"/>
 
 ---
