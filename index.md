@@ -4,12 +4,12 @@
 
 ### Category 1 
 
-[Project 1]
+Project 1
 <img src="/life_expectancy.png.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Project 2 Title
+<img src="/Heart Rate.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
