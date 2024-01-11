@@ -14,7 +14,7 @@ Regression models, including Linear Regression, RandomForest Regressor, Decision
 ---
 
 Project 2<br>
-The research predicted instances of heart failure by implementing logistic regression, Random Forest, Decision Tree, and Naive Bayes.
+The research predicted instances of heart failure by implementing logistic regression, Random Forest, Decision Tree, and Naive Bayes. <br>
 <img src="/Heart Rate.png?raw=true"/>
 
 ---
