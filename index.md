@@ -21,7 +21,7 @@ Project 1
    Files
 
 - [Project 1 ](https://github.com/dntenai/dntenai.github.io/blob/main/life%20_expectancy.ipynb)
-- [Project 2 ](http://example.com/)
+- [Project 2 ](https://github.com/dntenai/dntenai.github.io/blob/main/Heart_Failure%20Prediction.ipynb)
 - [Project 3 ](http://example.com/)
 - [Project 4 ](http://example.com/)
 
