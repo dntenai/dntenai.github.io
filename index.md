@@ -8,7 +8,7 @@ Project 1
 <img src="/life_expectancy.png.png?raw=true"/>
 
 ---
-Project 2 Title
+[Project 2 Title](http://example.com/)
 <img src="/Heart Rate.png?raw=true"/>
 
 ---
