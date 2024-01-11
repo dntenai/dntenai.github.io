@@ -8,12 +8,14 @@ Project 1
 <img src="/life_expectancy.png.png?raw=true"/>
 
 ---
-[Project 2 Title](http://example.com/)
+
+Project 2<br>
+
 <img src="/Heart Rate.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Project 3 <br>
+<img src="/Elbow plot.png?raw=true"/>
 
 ---
 
